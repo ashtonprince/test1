@@ -5,12 +5,8 @@
 To set up environments:
 
 1. Download json files
-![dl](./Sandbox Issuing.postman_environment.json)
-  
-2. Follow Directions on Screenshots
-
-![Manage_Environments](./Manage_Environments.png)
-
-![Import](./Import.png)
-
-![CHoose_Files](./Choose_Files.png)
+2. Opent Postman
+3. Open Manage Environments from Settings Cog in top right corner 
+4. Choose "Import"
+5. Select json files
+6. Close "Manage Environments" and select QA or Sandbox from the Environments dropdown
