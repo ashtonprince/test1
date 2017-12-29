@@ -5,6 +5,7 @@
 To set up environments:
 
 1. Download json files
+    https://raw.githubusercontent.com/ashtonprince/test1/master/QA%20Issuing.postman_environment.json
 2. Follow Directions on Screenshots
 
 ![Manage_Environments](./Manage_Environments.png)
