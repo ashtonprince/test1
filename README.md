@@ -5,7 +5,6 @@
 To set up environments:
 
 1. Download json files
-![dl](./Sandbox Issuing.postman_environment.json)
   
 2. Follow Directions on Screenshots
 
